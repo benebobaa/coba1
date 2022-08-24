@@ -22,3 +22,5 @@ Resume Materi KMFlutter – Basic Version and Branch Management (Git)
     -Membuat bekerja berkolaborasi dengan baik bersama rekan kerja.
     -Mengetahui siapa yang melakukan dan kapan sebuah perubahaan terjadi.
     -Dapat memudahkan dalam melakukan sebuah development project, baik dari sisi source code nya ataupun perubahan fungsi. 
+
+
