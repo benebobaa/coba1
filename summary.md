@@ -1,6 +1,2 @@
-Benediktus Satriya Mukti
+(2) Version Control and Branch Management (Git)
 
-1. Membuat branch development
-![Gambar branch development](/screenshots/branch-development.png)
-
-2. Membuat branch featureA
